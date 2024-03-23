@@ -6,6 +6,8 @@
         "memory": "cpp",
         "tuple": "cpp",
         "utility": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "xlocale": "cpp",
+        "xutility": "cpp"
     }
 }
